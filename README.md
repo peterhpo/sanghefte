@@ -1,4 +1,4 @@
 cyb-sanghefte
 =============
 
-Sanghefte for Ifi-galla 2014
+Sanghefte for Cybernetisk Selskab. Produseres gjerne i ny versjon ifm Ifi-galla.
