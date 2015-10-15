@@ -4,9 +4,11 @@
 \usepackage{extsizes}
 \usepackage{graphicx}
 \usepackage[bookmarks]{hyperref}
+\usepackage[latin1]{inputenc}
 \usepackage{pdfpages}
 \usepackage[lyric]{songs}
-\usepackage[latin1]{inputenc}
+\usepackage{tikz}
+\usepackage{wrapfig}
 
 \title{Sanghefte for Ifi-galla 2014}
 \author{Cybernetisk Selskab}
@@ -45,12 +47,53 @@
 }
 \makeatother
 
+\usetikzlibrary{shapes,arrows}
+
+\tikzstyle{decision} = [diamond, draw, fill=blue!20, text width=1in, text badly centered, node distance=1.8in, inner sep=0pt]
+\tikzstyle{block} = [rectangle, draw, fill=blue!20, text width=5em, text centered, rounded corners, minimum height=1in, node distance=1.8in]
+\tikzstyle{line} = [draw, -latex']
+\tikzstyle{cloud} = [draw, ellipse, fill=red!20, node distance=1in, minimum height=2em]
+
 \begin{document}
+
+\newpage
 
 \includepdf{forside.pdf}
 \newpage
 
 \tableofcontents
+
+\begin{figure}[hb]
+	\begin{center}
+		\begin{tikzpicture}[auto, scale=0.5, transform shape]
+		% Place nodes
+		\node [cloud] (start) {START};
+		\node [decision, right of=start] (sit_prompt) {Sit de til bords?};
+		\node [block, right of=sit_prompt] (sit_order) {Set dykk til bords};
+		\node [decision, below of=sit_prompt] (event_prompt) {Skjer det noko?};
+		\node [block, right of=event_prompt] (event_order) {La det skje};
+		\node [block, left of=event_prompt] (sing_order) {Syng ein song};
+		\node [decision, below of=sing_order] (happy_prompt) {Er de glade?};
+		\node [block, below of=happy_prompt] (happy_yes) {Et};
+		\node [block, right of=happy_yes] (happy_no) {Et da og};
+		\node [decision, below of=happy_no] (last_song_prompt) {Var det siste songen?};
+		% Draw edges
+		\path [line] (start) -- (sit_prompt);
+		\path [line] (sit_prompt) -- node {Nei} (sit_order);
+		\path [line] (sit_prompt) -- node {Ja} (event_prompt);
+		\path [line] (sit_order) -- (event_prompt);
+		\path [line] (event_prompt) edge[bend left=20] node {Ja} (event_order);
+		\path [line] (event_prompt) -- node {Nei} (sing_order);
+		\path [line] (event_order) edge[bend left=20] (event_prompt);
+		\path [line] (sing_order) -- (happy_prompt);
+		\path [line] (happy_prompt) -- node {Ja} (happy_yes);
+		\path [line] (happy_prompt) -- node {Nei} (happy_no);
+		\path [line] (happy_yes) -- (last_song_prompt);
+		\path [line] (happy_no) -- (last_song_prompt);
+		\path [line] (last_song_prompt) edge[bend right=60] node {Nei} (event_prompt);
+		\end{tikzpicture}
+	\end{center}
+\end{figure}
 
 \begin{songs}{titleidx,authidx,scripidx}
 
