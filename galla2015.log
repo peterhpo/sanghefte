@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.15)  15 OCT 2015 22:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.15)  15 OCT 2015 22:07
 entering extended mode
 **galla2015.tex
 (galla2015.tex
@@ -462,11 +462,11 @@ Underfull \vbox (badness 1622) detected at line 264
  []
 
 [6]
-Underfull \vbox (badness 7415) detected at line 339
+Underfull \vbox (badness 7486) detected at line 339
  []
 
 
-Underfull \vbox (badness 7740) detected at line 358
+Underfull \vbox (badness 7814) detected at line 358
  []
 
 [7] [8]
@@ -494,21 +494,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 580.
 (galla2015.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 580.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 580.
-
-
-Package rerunfilecheck Warning: File `galla2015.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `galla2015.out':
-(rerunfilecheck)             Before: ED7E2FD84428D0EF9249D556CAF155DC;913
-(rerunfilecheck)             After:  11C55E6AF0BE11B699C1479332B5431F;915.
+Package rerunfilecheck Info: File `galla2015.out' has not changed.
+(rerunfilecheck)             Checksum: 87DD3AE342F62BF563A662A8ADBB8168;915.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 580.
  ) 
 Here is how much of TeX's memory you used:
  7762 strings out of 493673
  111660 string characters out of 3141526
- 226299 words of memory out of 3000000
+ 225299 words of memory out of 3000000
  10963 multiletter control sequences out of 15000+200000
  14267 words of font info for 36 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -519,9 +512,9 @@ n\ec\dpi600\ecsi2074.pk> <C:\Users\megoth\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
 our\jknappen\ec\dpi600\ecsx2488.pk> <C:\Users\megoth\AppData\Local\MiKTeX\2.9\f
 onts\pk\ljfour\jknappen\ec\dpi600\ectt1440.pk> <C:\Users\megoth\AppData\Local\M
 iKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt2074.pk>
-Output written on galla2015.pdf (12 pages, 170913 bytes).
+Output written on galla2015.pdf (12 pages, 166078 bytes).
 PDF statistics:
- 368 PDF objects out of 1000 (max. 8388607)
+ 356 PDF objects out of 1000 (max. 8388607)
  44 named destinations out of 1000 (max. 500000)
  146 words of extra memory for PDF output out of 10000 (max. 10000000)
 
