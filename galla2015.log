@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.15)  15 OCT 2015 21:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.15)  15 OCT 2015 21:52
 entering extended mode
 **galla2015.tex
 (galla2015.tex
@@ -344,21 +344,21 @@ File: latin1.def 2015/03/17 v1.2c Input encoding file
 ))
 \SB@out=\write3
  (galla2015.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 48.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
@@ -377,7 +377,7 @@ File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 \everyMPtoPDFconversion=\toks26
 )
 \AtBeginShipoutBox=\box42
-Package hyperref Info: Link coloring OFF on input line 32.
+Package hyperref Info: Link coloring OFF on input line 48.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -386,9 +386,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count128
 )
-LaTeX Info: Redefining \ref on input line 32.
-LaTeX Info: Redefining \pageref on input line 32.
-LaTeX Info: Redefining \nameref on input line 32.
+LaTeX Info: Redefining \ref on input line 48.
+LaTeX Info: Redefining \pageref on input line 48.
+LaTeX Info: Redefining \nameref on input line 48.
 
 (galla2015.out) (galla2015.out)
 \@outlinefile=\write4
@@ -404,110 +404,123 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 <forside.pdf, id=63, 597.51233pt x 845.0471pt>
 File: forside.pdf Graphic file (type pdf)
  <use forside.pdf>
-Package pdftex.def Info: forside.pdf used on input line 34.
+Package pdftex.def Info: forside.pdf used on input line 50.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
 File: forside.pdf Graphic file (type pdf)
 
 <use forside.pdf>
-Package pdftex.def Info: forside.pdf used on input line 34.
+Package pdftex.def Info: forside.pdf used on input line 50.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
  <forside.pdf, id=66, page=1, 597.51233pt x 845.0471pt>
 File: forside.pdf Graphic file (type pdf)
 
 <use forside.pdf, page 1>
-Package pdftex.def Info: forside.pdf, page1 used on input line 34.
+Package pdftex.def Info: forside.pdf, page1 used on input line 50.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
 File: forside.pdf Graphic file (type pdf)
  <use forside.pdf, page 1>
-Package pdftex.def Info: forside.pdf, page1 used on input line 34.
+Package pdftex.def Info: forside.pdf, page1 used on input line 50.
 (pdftex.def)             Requested size: 562.12665pt x 795.00201pt.
 File: forside.pdf Graphic file (type pdf)
  <use forside.pdf, page 1>
-Package pdftex.def Info: forside.pdf, page1 used on input line 34.
+Package pdftex.def Info: forside.pdf, page1 used on input line 50.
 (pdftex.def)             Requested size: 562.12665pt x 795.00201pt.
 File: forside.pdf Graphic file (type pdf)
 
 <use forside.pdf, page 1>
-Package pdftex.def Info: forside.pdf, page1 used on input line 34.
+Package pdftex.def Info: forside.pdf, page1 used on input line 50.
 (pdftex.def)             Requested size: 562.12665pt x 795.00201pt.
 File: forside.pdf Graphic file (type pdf)
  <use forside.pdf, page 1>
-Package pdftex.def Info: forside.pdf, page1 used on input line 34.
+Package pdftex.def Info: forside.pdf, page1 used on input line 50.
 (pdftex.def)             Requested size: 562.12665pt x 795.00201pt.
  [1
 
  <./forside.pdf{C:/Users/megoth/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.m
 ap}>]
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 53.
+ (galla2015.toc)
+\tf@toc=\write5
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <6> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 98.
- [2]
-Underfull \vbox (badness 10000) detected at line 184
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 116.
+
+[2]
+Underfull \vbox (badness 3179) detected at line 153
  []
 
 [3]
-Underfull \vbox (badness 10000) detected at line 215
+Underfull \vbox (badness 10000) detected at line 202
  []
 
 [4]
-Underfull \vbox (badness 2894) detected at line 258
+Underfull \vbox (badness 10000) detected at line 233
  []
 
 [5]
-Underfull \vbox (badness 10000) detected at line 344
+Underfull \vbox (badness 1622) detected at line 264
  []
 
 [6]
-Underfull \vbox (badness 1852) detected at line 360
- []
-
-[7]
-Underfull \vbox (badness 10000) detected at line 391
+Underfull \vbox (badness 7415) detected at line 336
  []
 
 
-Underfull \vbox (badness 2012) detected at line 420
+Underfull \vbox (badness 7740) detected at line 355
  []
 
-[8] [9] [10] [11] <penguin_diag.png, id=148, 770.88pt x 578.16pt>
+[7] [8]
+Underfull \vbox (badness 10000) detected at line 438
+ []
+
+[9] [10] [11] <penguin_diag.png, id=180, 770.88pt x 578.16pt>
 File: penguin_diag.png Graphic file (type png)
 
 <use penguin_diag.png>
-Package pdftex.def Info: penguin_diag.png used on input line 554.
+Package pdftex.def Info: penguin_diag.png used on input line 572.
 (pdftex.def)             Requested size: 433.62pt x 325.2142pt.
 
-Overfull \hbox (18.06749pt too wide) in paragraph at lines 554--555
+Overfull \hbox (18.06749pt too wide) in paragraph at lines 572--573
 [][] 
  []
 
 (galla2015.sxc) (galla2015.sxc) (galla2015.sxc)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 556.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 574.
  [12
 
  <./penguin_diag.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 556.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 574.
 
 (galla2015.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 556.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 556.
-Package rerunfilecheck Info: File `galla2015.out' has not changed.
-(rerunfilecheck)             Checksum: 391B3196E6123F492434B8B71C8F135D;913.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 556.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 574.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 574.
+
+
+Package rerunfilecheck Warning: File `galla2015.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `galla2015.out':
+(rerunfilecheck)             Before: 40E53668086EA834EAB33AE20256D120;913
+(rerunfilecheck)             After:  ED7E2FD84428D0EF9249D556CAF155DC;913.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 574.
  ) 
 Here is how much of TeX's memory you used:
- 7736 strings out of 493673
- 111378 string characters out of 3141526
- 228229 words of memory out of 3000000
- 10958 multiletter control sequences out of 15000+200000
- 13639 words of font info for 34 fonts, out of 3000000 for 9000
+ 7760 strings out of 493673
+ 111638 string characters out of 3141526
+ 226299 words of memory out of 3000000
+ 10962 multiletter control sequences out of 15000+200000
+ 13954 words of font info for 35 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  37i,18n,40p,253b,460s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\megoth\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
-\ectt1440.pk> <C:\Users\megoth\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
-n\ec\dpi600\ecsi2074.pk> <C:\Users\megoth\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
-our\jknappen\ec\dpi600\ecsx2488.pk>
-Output written on galla2015.pdf (12 pages, 156717 bytes).
+\ecsi2074.pk> <C:\Users\megoth\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
+n\ec\dpi600\ecsx2488.pk> <C:\Users\megoth\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
+our\jknappen\ec\dpi600\ectt1440.pk> <C:\Users\megoth\AppData\Local\MiKTeX\2.9\f
+onts\pk\ljfour\jknappen\ec\dpi600\ectt2074.pk>
+Output written on galla2015.pdf (12 pages, 163602 bytes).
 PDF statistics:
- 299 PDF objects out of 1000 (max. 8388607)
- 28 named destinations out of 1000 (max. 500000)
+ 343 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
  146 words of extra memory for PDF output out of 10000 (max. 10000000)
 
