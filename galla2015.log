@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.15)  15 OCT 2015 23:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.15)  16 OCT 2015 08:53
 entering extended mode
 **galla2015.tex
 (galla2015.tex
@@ -769,43 +769,58 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 )
 ABD: EveryShipout initializing macros
-<forside.pdf, id=66, 597.51233pt x 845.0471pt>
-File: forside.pdf Graphic file (type pdf)
- <use forside.pdf>
-Package pdftex.def Info: forside.pdf used on input line 61.
-(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
-File: forside.pdf Graphic file (type pdf)
 
-<use forside.pdf>
-Package pdftex.def Info: forside.pdf used on input line 61.
-(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
- <forside.pdf, id=69, page=1, 597.51233pt x 845.0471pt>
-File: forside.pdf Graphic file (type pdf)
+pdfTeX warning: pdflatex.exe (file ./forside_2015.pdf): PDF inclusion: found PD
+F version <1.7>, but at most version <1.5> allowed
+<forside_2015.pdf, id=66, 597.50829pt x 845.0471pt>
+File: forside_2015.pdf Graphic file (type pdf)
+ <use forside_2015.pdf>
+Package pdftex.def Info: forside_2015.pdf used on input line 61.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 
-<use forside.pdf, page 1>
-Package pdftex.def Info: forside.pdf, page1 used on input line 61.
-(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
-File: forside.pdf Graphic file (type pdf)
- <use forside.pdf, page 1>
-Package pdftex.def Info: forside.pdf, page1 used on input line 61.
-(pdftex.def)             Requested size: 562.12665pt x 795.00201pt.
-File: forside.pdf Graphic file (type pdf)
- <use forside.pdf, page 1>
-Package pdftex.def Info: forside.pdf, page1 used on input line 61.
-(pdftex.def)             Requested size: 562.12665pt x 795.00201pt.
-File: forside.pdf Graphic file (type pdf)
 
-<use forside.pdf, page 1>
-Package pdftex.def Info: forside.pdf, page1 used on input line 61.
-(pdftex.def)             Requested size: 562.12665pt x 795.00201pt.
-File: forside.pdf Graphic file (type pdf)
- <use forside.pdf, page 1>
-Package pdftex.def Info: forside.pdf, page1 used on input line 61.
-(pdftex.def)             Requested size: 562.12665pt x 795.00201pt.
+pdfTeX warning: pdflatex.exe (file ./forside_2015.pdf): PDF inclusion: found PD
+F version <1.7>, but at most version <1.5> allowed
+File: forside_2015.pdf Graphic file (type pdf)
+<use forside_2015.pdf>
+Package pdftex.def Info: forside_2015.pdf used on input line 61.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./forside_2015.pdf): PDF inclusion: found PD
+F version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.exe (file ./forside_2015.pdf): PDF inclusion: found PD
+F version <1.7>, but at most version <1.5> allowed
+<forside_2015.pdf, id=69, page=1, 597.50829pt x 845.0471pt>
+File: forside_2015.pdf Graphic file (type pdf)
+
+<use forside_2015.pdf, page 1>
+Package pdftex.def Info: forside_2015.pdf, page1 used on input line 61.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: forside_2015.pdf Graphic file (type pdf)
+ <use forside_2015.pdf, page 1>
+Package pdftex.def Info: forside_2015.pdf, page1 used on input line 61.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: forside_2015.pdf Graphic file (type pdf)
+
+<use forside_2015.pdf, page 1>
+Package pdftex.def Info: forside_2015.pdf, page1 used on input line 61.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: forside_2015.pdf Graphic file (type pdf)
+ <use forside_2015.pdf, page 1>
+Package pdftex.def Info: forside_2015.pdf, page1 used on input line 61.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: forside_2015.pdf Graphic file (type pdf)
+
+<use forside_2015.pdf, page 1>
+Package pdftex.def Info: forside_2015.pdf, page1 used on input line 61.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
  [1
 
- <./forside.pdf{C:/Users/megoth/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.m
-ap}>]
+ <./forside_2015.pdf{C:/Users/megoth/AppData/Local/MiKTeX/2.9/pdftex/config/pdf
+tex.map}>]
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <20.74> not available
 (Font)              Font shape `T1/cmtt/m/n' tried instead on input line 64.
  (galla2015.toc)
@@ -848,7 +863,7 @@ Underfull \vbox (badness 7814) detected at line 401
 Underfull \vbox (badness 10000) detected at line 484
  []
 
-[9] [10] [11] <penguin_diag.png, id=184, 770.88pt x 578.16pt>
+[9] [10] [11] <penguin_diag.png, id=183, 770.88pt x 578.16pt>
 File: penguin_diag.png Graphic file (type png)
 
 <use penguin_diag.png>
@@ -874,7 +889,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 623.
  ) 
 Here is how much of TeX's memory you used:
  19713 strings out of 493673
- 390243 string characters out of 3141526
+ 390288 string characters out of 3141526
  500330 words of memory out of 3000000
  22662 multiletter control sequences out of 15000+200000
  14267 words of font info for 36 fonts, out of 3000000 for 9000
@@ -886,9 +901,9 @@ n\ec\dpi600\ecsi2074.pk> <C:\Users\megoth\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
 our\jknappen\ec\dpi600\ecsx2488.pk> <C:\Users\megoth\AppData\Local\MiKTeX\2.9\f
 onts\pk\ljfour\jknappen\ec\dpi600\ectt1440.pk> <C:\Users\megoth\AppData\Local\M
 iKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt2074.pk>
-Output written on galla2015.pdf (12 pages, 169151 bytes).
+Output written on galla2015.pdf (12 pages, 279196 bytes).
 PDF statistics:
- 359 PDF objects out of 1000 (max. 8388607)
+ 358 PDF objects out of 1000 (max. 8388607)
  44 named destinations out of 1000 (max. 500000)
  158 words of extra memory for PDF output out of 10000 (max. 10000000)
 
