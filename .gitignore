@@ -3,5 +3,6 @@
 *.sxd
 *.log
 *.out
+*.toc
 *.sxc
 *.gz
