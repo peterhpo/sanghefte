@@ -1,0 +1,12 @@
+# Ignoring temporary files (can also be deleted by running "make clean")
+
+*.sxd
+*.aux
+*.dep
+*.ly
+*.out
+*.sxc
+*.log
+4c
+eb
+tmp*.pdf
