@@ -14,6 +14,6 @@ clean:
 # For å kjøre scriptet som lager pdf-en 
 # (må ha installert lilypond og latex for å kjøre)
 song:
-	lilypond-book --pdf sanghefte.lytex
+	lilypond-book --pdf sanghefte.latex
 	pdflatex sanghefte.tex
 
